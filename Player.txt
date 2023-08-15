@@ -1,1 +1,2 @@
-bool zzzzz;
+int speed = 100;
+
